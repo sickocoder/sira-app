@@ -7,7 +7,7 @@ const SiraTable = () => {
   const [data, setData] = useState([]);
 
   useEffect(() => {
-    fetch('http://localhost:3000/api/veiculos')
+    fetch('/api/veiculos')
       .then((response) => response.json())
       .then((data) => setData(data));
   }, []);
