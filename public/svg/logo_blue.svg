@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="738.814" height="192.431" viewBox="0 0 738.814 192.431">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.787" y1="0.397" x2="-0.325" y2="1.727" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4e73df"/>
+      <stop offset="1" stop-color="#060a45"/>
+    </linearGradient>
+  </defs>
+  <g id="Grupo_1" data-name="Grupo 1" transform="translate(-607.186 -436.569)">
+    <path id="Caminho_2" data-name="Caminho 2" d="M-1.353,2.485,117.172,7.772,133.561,120.5H56.468Z" transform="translate(608.54 502.209)" fill="#727bff"/>
+    <path id="Caminho_4" data-name="Caminho 4" d="M0,0,33.539,5.431,33.6,99.189l.032,35.963Z" transform="matrix(1, -0.017, 0.017, 1, 629.952, 487.461)" fill="#45b7d3" opacity="0.883"/>
+    <path id="Caminho_5" data-name="Caminho 5" d="M-6.61,3.041,33,19.54,14.812,101.382-3.745,160.268Z" transform="translate(669.68 461.641)" fill="#76c9d5" opacity="0.883"/>
+    <path id="Caminho_6" data-name="Caminho 6" d="M-4.062-2.431l76.425,51.7,5.5-19.986,41.72,36.183L90.856,183.72H-49.895Z" transform="translate(714.971 439)" fill="url(#linear-gradient)"/>
+    <text id="S_I_R_A" data-name="S I R A" transform="translate(865 585)" fill="#4e73df" font-size="131" font-family="Arial-Black, Arial Black" font-weight="800"><tspan x="0" y="0">S I R A</tspan></text>
+    <text id="Solução_de_Controlo_e_Registo_de_Automóvel" data-name="Solução de Controlo e Registo de Automóvel" transform="translate(865 621)" fill="#4e73df" font-size="25" font-family="LaoSangamMN, Lao Sangam MN"><tspan x="0" y="0">Solu</tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande">çã</tspan><tspan y="0">o de Controlo e Registo de Autom</tspan><tspan y="0" font-family="LucidaGrande, Lucida Grande">ó</tspan><tspan y="0">vel</tspan></text>
+  </g>
+</svg>
