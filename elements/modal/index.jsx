@@ -2,7 +2,7 @@ import { Modal } from 'react-bootstrap';
 
 import { Carta } from '../../components';
 
-export default function SiraModal(props) {
+export default function SiraModal({ form = null, ...props }) {
   return (
     <Modal
       {...props}
@@ -10,7 +10,7 @@ export default function SiraModal(props) {
       aria-labelledby="contained-modal-title-vcenter"
       centered
     >
-      <Carta />
+      {form}
     </Modal>
   );
 }

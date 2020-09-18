@@ -63,8 +63,11 @@ export const MenuSectionItem = styled.li`
   padding: 0.6rem 0;
   cursor: pointer;
   transition: opacity 0.2s ease-in-out;
-  opacity: 0.5;
+  /* opacity: 0.5; */
   font-size: 0.9rem;
+
+  font-weight: ${(props) => (props.active ? 600 : 'regular')};
+  opacity: ${(props) => (props.active ? 1 : 0.5)};
 
   display: flex;
   flex-direction: row;
